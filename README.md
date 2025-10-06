@@ -4,5 +4,5 @@
 
 **Nhóm 22**
 
-1. **Lý Chí Nguyên** *(Nhóm trưởng)* — MSSV: `3122410269`  
-2. **Lầu Vỉ Tường** — MSSV: `3122410459`
+1. **Lý Chí Nguyên** *(Nhóm trưởng)* - MSSV: 3122410269
+2. **Lầu Vỉ Tường** - MSSV: 3122410459
